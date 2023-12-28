@@ -42,4 +42,6 @@ The original mod was developed by [@Trodi](https://github.com/oscarpedrero). I j
 - @Vex, owner & founder of [Vexor RPG](https://discord.gg/JpVsKVvKNR). A guy with lots of ideas - taking VRising to a new level!
 
 # BloodyMary
-- [Bloody Mary](https://discord.gg/ndxr5GmeDD): A complete new experience for PvPvE players! All mods are running and tested on this server! [Website](https://bloody-mary.online/)
+- A complete new experience for PvPvE players! All mods are running and tested on this server!
+- [Discord](https://discord.gg/ndxr5GmeDD)
+- [Website](https://bloody-mary.online/)
