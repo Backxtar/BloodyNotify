@@ -2,7 +2,9 @@
 
 **BloodyNotify** BloodyNotify is a mod designed for V Rising, offering the capability to inform players about VBlood kills and support status.
 
-![BloodyNotify](https://github.com/Backxtar/BloodyNotify/blob/main/Release/icon.png?raw=true)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Backxtar/BloodyNotify/blob/main/Release/icon.png?raw=true">
+</p>
 
 ## Mod Features
 BloodyNotify is a plugin that provides players with information about gameplay and support status.
