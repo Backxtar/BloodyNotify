@@ -1,0 +1,11 @@
+﻿{
+  "name": "BloodyNotify",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Backxtar/BloodyNotify",
+  "description": "BloodyNotify is a mod designed for V Rising, offering the capability to inform players about VBlood kills and support status.",
+  "dependencies": [
+    "BepInEx-BepInExPack_V_Rising-1.668.5",
+    "deca-Bloodstone-0.1.6",
+    "deca-VampireCommandFramework-0.8.0"
+  ]
+}

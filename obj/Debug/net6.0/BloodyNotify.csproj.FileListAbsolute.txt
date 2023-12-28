@@ -1,0 +1,13 @@
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\BloodyNotify.csproj.AssemblyReference.cache
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\MyPluginInfo.cs
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\BloodyNotify.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\BloodyNotify.AssemblyInfoInputs.cache
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\BloodyNotify.AssemblyInfo.cs
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\BloodyNotify.csproj.CoreCompileInputs.cache
+E:\github\BloodyMary\BloodyNotify\bin\Debug\net6.0\BloodyNotify.deps.json
+E:\github\BloodyMary\BloodyNotify\bin\Debug\net6.0\BloodyNotify.dll
+E:\github\BloodyMary\BloodyNotify\bin\Debug\net6.0\BloodyNotify.pdb
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\BloodyNotify.dll
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\refint\BloodyNotify.dll
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\BloodyNotify.pdb
+E:\github\BloodyMary\BloodyNotify\obj\Debug\net6.0\ref\BloodyNotify.dll

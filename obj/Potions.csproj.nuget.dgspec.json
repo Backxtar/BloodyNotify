@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\User\\Dokumente\\Projekte C#\\BloodyMary\\Potions\\Potions.csproj": {}
+  },
+  "projects": {
+    "F:\\User\\Dokumente\\Projekte C#\\BloodyMary\\Potions\\Potions.csproj": {
+      "version": "1.2.0",
+      "restore": {
+        "projectUniqueName": "F:\\User\\Dokumente\\Projekte C#\\BloodyMary\\Potions\\Potions.csproj",
+        "projectName": "Potions",
+        "projectPath": "F:\\User\\Dokumente\\Projekte C#\\BloodyMary\\Potions\\Potions.csproj",
+        "packagesPath": "C:\\Users\\joerg\\.nuget\\packages\\",
+        "outputPath": "F:\\User\\Dokumente\\Projekte C#\\BloodyMary\\Potions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "F:\\User\\Dokumente\\Projekte C#\\BloodyMary\\Potions\\NuGet.Config",
+          "C:\\Users\\joerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {},
+          "https://nuget.samboy.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BepInEx.PluginInfoProps": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "BepInEx.Unity.IL2CPP": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[6.0.0-be.668, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.3, )"
+            },
+            "VRising.Bloodstone": {
+              "target": "Package",
+              "version": "[0.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

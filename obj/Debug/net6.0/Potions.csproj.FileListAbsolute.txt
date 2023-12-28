@@ -1,0 +1,13 @@
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\Potions.csproj.AssemblyReference.cache
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\MyPluginInfo.cs
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\Potions.GeneratedMSBuildEditorConfig.editorconfig
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\Potions.AssemblyInfoInputs.cache
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\Potions.AssemblyInfo.cs
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\Potions.csproj.CoreCompileInputs.cache
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\bin\Debug\net6.0\Potions.deps.json
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\bin\Debug\net6.0\Potions.dll
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\bin\Debug\net6.0\Potions.pdb
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\Potions.dll
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\refint\Potions.dll
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\Potions.pdb
+F:\User\Dokumente\Projekte C#\BloodyMary\Potions\obj\Debug\net6.0\ref\Potions.dll

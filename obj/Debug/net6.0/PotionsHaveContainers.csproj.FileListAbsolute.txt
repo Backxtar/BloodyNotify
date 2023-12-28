@@ -1,0 +1,26 @@
+F:\User\Downloads\PotionsHaveContainers-main\bin\Debug\net6.0\PotionsHaveContainers.deps.json
+F:\User\Downloads\PotionsHaveContainers-main\bin\Debug\net6.0\PotionsHaveContainers.dll
+F:\User\Downloads\PotionsHaveContainers-main\bin\Debug\net6.0\PotionsHaveContainers.pdb
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\PotionsHaveContainers.csproj.AssemblyReference.cache
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\MyPluginInfo.cs
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\PotionsHaveContainers.GeneratedMSBuildEditorConfig.editorconfig
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\PotionsHaveContainers.AssemblyInfoInputs.cache
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\PotionsHaveContainers.AssemblyInfo.cs
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\PotionsHaveContainers.csproj.CoreCompileInputs.cache
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\PotionsHaveContainers.dll
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\refint\PotionsHaveContainers.dll
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\PotionsHaveContainers.pdb
+F:\User\Downloads\PotionsHaveContainers-main\obj\Debug\net6.0\ref\PotionsHaveContainers.dll
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\bin\Debug\net6.0\PotionsHaveContainers.deps.json
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\bin\Debug\net6.0\PotionsHaveContainers.dll
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\bin\Debug\net6.0\PotionsHaveContainers.pdb
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\PotionsHaveContainers.csproj.AssemblyReference.cache
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\MyPluginInfo.cs
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\PotionsHaveContainers.GeneratedMSBuildEditorConfig.editorconfig
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\PotionsHaveContainers.AssemblyInfoInputs.cache
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\PotionsHaveContainers.AssemblyInfo.cs
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\PotionsHaveContainers.csproj.CoreCompileInputs.cache
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\PotionsHaveContainers.dll
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\refint\PotionsHaveContainers.dll
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\PotionsHaveContainers.pdb
+F:\User\Dokumente\Projekte C#\BloodyMary\PotionsHaveContainers\obj\Debug\net6.0\ref\PotionsHaveContainers.dll
